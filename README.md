@@ -3,4 +3,4 @@ Merhaba, uzun zamandır programlama üzerine uğraşıyorum. Genel olarak oyun p
 Bana ulaşabileceğiniz adreslerim:
 email: gurkansahin9075@gmail.com
 
-![Image of Yaktocat](https://cdn.discordapp.com/attachments/623592151829184552/756854264533483580/Nextjs-Conf-Ticket.png)
+//![Image of Yaktocat](https://cdn.discordapp.com/attachments/623592151829184552/756854264533483580/Nextjs-Conf-Ticket.png)
